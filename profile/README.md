@@ -35,7 +35,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=catoo-hub&data=followers,repositories,stars,commits&theme=dark)](https://github.com/catoo-hub)
 
-Hey there! I'm **torroixq**, a developer and product designer passionate about building digital experiences that combine thoughtful design with practical engineering.
+Hey there! I'm **torroixq**, 19 years old) Developer and product designer passionate about building digital experiences that combine thoughtful design with practical engineering.
 
 My main interests lie in **frontend development, full-stack applications, and UI/UX design**. I enjoy taking ideas from early concepts and Figma prototypes to functional web applications.
 
@@ -44,8 +44,6 @@ I've worked on commercial websites, contributed to a B2B/B2C platform, and conti
 I'm particularly interested in modern web technologies, scalable application architecture, creative tools, and AI-assisted development workflows.
 
 **A few things about me:**
-- 🏆 Multiple-time winner of international competitions.
-- 🎓 Included in a state register of individuals with outstanding abilities.
 - 🎨 Passionate about UI/UX, motion design, and visual storytelling.
 - 💻 Building and maintaining independent software projects.
 - 🤖 Exploring AI-assisted development and modern engineering practices.
