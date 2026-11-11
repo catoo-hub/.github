@@ -148,40 +148,6 @@ The goal is to build a functional web application using Next.js, TypeScript, Pos
 
 **Currently in development.**
 
-## 🏢 My Organizations
-
-<div align="center">
-<table>
-<tr>
-<td>
-  <a href="https://github.com/meowrch">
-    <img src="./assets/meowrch.png" width="330" height="180" alt="Meowrch"/>
-  </a>
-</td>
-<td>
-  <a href="https://github.com/catoo-hub-Hackathons">
-    <img src="./assets/hackathons.png" width="330" height="180" alt="Hackathons"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td>
-  <a href="https://github.com/catoo-hub-Designs">
-    <img src="./assets/designs.png" width="330" height="180" alt="Designs"/>
-  </a>
-</td>
-<td>
-  <a href="https://github.com/catoo-hub-EDUCATION">
-    <img src="./assets/education.png" width="330" height="180" alt="Education"/>
-  </a>
-</td>
-</tr>
-</table>
-</div>
-
-> [!TIP]
-> Some of my projects are hosted in these organizations rather than on my personal profile. Feel free to explore them!
-
 ## ☕ Support My Work
 
 If you enjoy my projects or would like to support my open-source work, you can send a donation using one of the cryptocurrency wallets below.
@@ -207,5 +173,5 @@ If you enjoy my projects or would like to support my open-source work, you can s
 ---
 
 <div align="center">
-*Thanks for stopping by. See you around, wanderer!* 👻
+<h3>Thanks for stopping by. See you around, wanderer! 👻</h3>
 </div>
