@@ -3,7 +3,7 @@
   <img width="400" src="./assets/pic.png" alt="Моё изображение"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=30&duration=3000&pause=1000&color=F7BBBB&width=600&height=60&lines=Привет%2C+путник!;Я+torroixq!" alt="Привет, путник! Я torroixq!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=40&duration=3000&pause=1000&color=F7BBBB&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA!;%D0%AF+%E2%80%94+torroixq!" alt="Привет, путник! Я — torroixq!"/>
   </a>
 
   <br/><br/>
