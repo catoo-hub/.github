@@ -3,7 +3,7 @@
   <img width="400" src="./assets/pic.png" alt="ME"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=40&duration=3000&pause=1000&width=435&lines=Greetings%2C+wanderer!;I'm+torroixq!" alt="Greetings, wanderer! I'm torroixq!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=30&duration=3000&pause=1000&color=F7BBBB&width=435&lines=Greetings%2C+wanderer!;I'm+torroixq!" alt="Greetings, wanderer! I'm torroixq!"/>
   </a>
   
   <br/><br/>
@@ -30,8 +30,6 @@
     <img src="https://img.shields.io/badge/README-ENG-fab387?labelColor=1C2325&style=for-the-badge" alt="English README"/>
   </a>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=500&size=40&duration=3000&pause=1000&width=435&lines=Greetings%2C+wanderer!;I'm+torroixq!)](https://git.io/typing-svg)
 
 ## 👻 A little about me...
 
